@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Changing name of the post"
 date: 2024-01-26T15:34:30-04:00
 categories:
   - blog
