@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Kiyell 
+title: Kiyell - Ethical Hacker & Software Developer 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. Edit test. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
+ Kiyell is an Ethical Hacker that enjoys creating tools that that test for security vulnerabilities at scale. When not busy hacking or programming, also enjoys writing educational content and astronomy.  
+twitter_username: KiyellSec
 github_username: kiyell
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
+subtitle: 
+
 
 # Build settings
 markdown: kramdown
@@ -59,21 +59,18 @@ plugins:
 
 author:
   name   : "Kiyell"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome one two three biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/profile_image_2024_nocolor.jpg"
+  bio    : ""
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://kiyell.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/KiyellSec"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/kiyell"
 
 footer:
   links:
@@ -82,10 +79,7 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/kiyell"
 
 defaults:
   # _posts
