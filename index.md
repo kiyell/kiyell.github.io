@@ -9,7 +9,7 @@ toc: true
 layouts_gallery:
   - url: /assets/images/reaction_vs_image.png
     image_path: /assets/images/reaction_vs_image.png
-    alt: "Reaction vs android app screenshot"
+    alt: "Reaction vs Android app screenshot"
   - url: /assets/images/requestflect_image.png
     image_path: /assets/images/requestflect_image.png
     alt: "Requestflect python tool screenshot"
