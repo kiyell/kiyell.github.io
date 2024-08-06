@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
-title: Hello & Welcome!
+title: Kiyell - Ethical Hacker & Software Developer
 toc: true
 layouts_gallery:
   - url: /assets/images/reaction_vs_image.png
