@@ -103,6 +103,8 @@ Although the security flaw was quite inconsequential I felt that it still should
 
 Less than a day passes when I get a response from one of the maintainers. They tell me that they do not consider the bug a security issue and that the issue will be fixed in version 6. They also encourage me to make a pull request on the project if I would like to contribute to a fix in the current version. So I went ahead and added a check of the $auth variable to the code, created a pull request, and [my changes were accepted and merged](https://github.com/pi-hole/web/pull/3077) into the developmental branch of version 5.21.
 
+*08/19/2024 Update: The MITRE Corporation CNA has created an official CVE for this vulnerability tracking it as [CVE-2024-44069](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-44069). For now it is flagged as disputed due to the maintainers view of the issue.*
+
 ## Takeaways
 
 Doing a security audit of a web application of which you have access to the source code is much easier than the black-box testing scenario I am more familiar with. There's much less friction involved when you can see and directly test the security logic without the cumbersome fuzzing/poking around process you often do when bug bounty hunting. 
