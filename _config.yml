@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Kiyell"
   avatar : "/assets/images/profile_image_2024_nocolor.jpg"
-  bio    : ""
+  bio    : "A hands-on hacker focused on cybersecurity, microcontrollers, astronomy, and more."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
