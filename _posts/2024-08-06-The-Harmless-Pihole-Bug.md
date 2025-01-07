@@ -3,7 +3,10 @@ layout: single
 title:  "Finding a 'harmless' Pi-hole vulnerability"
 author_profile: true
 toc: true
+related: true
 classes: wide
+header:
+  teaser: /assets/images/pihole_temp_status.png 
 ---
 
 In my journey as a [bug bounty hunter,](https://hackerone.com/kiyell) one of the things that I do all the time is pentesting web applications without access to the source code. This is known as black-box testing. So when I recently purchased a Raspberry Pi and installed Pi-hole for use in my home network, I started thinking about testing for a change, a piece of open source software I'm using for security flaws.
