@@ -21,7 +21,7 @@ On the internet I go by the handle kiyell. I have a background in IT support and
 
 Some of my latest endeavors have involved reviewing open source projects for [security vulnerabilties](/The-Harmless-Pihole-Bug/), creating [bash scripts](https://github.com/kiyell/h1scripts) that detect bug bounty scope changes, managing my [Linux config files](https://github.com/kiyell/dotfiles) with Git, and using [Jekyll & Github Pages](https://github.com/kiyell/kiyell.github.io) to create the website you are viewing now.
 
-I invite you to browse through my articles where I write about software security, programming, and other topics I am passionate about.
+I invite you to [browse through my articles](/posts/) where I write about software security, programming, and other topics I am passionate about.
 
 
 ## Bug Bounty Highlights
