@@ -5,6 +5,8 @@ author_profile: true
 toc: true
 related: true
 classes: wide
+tags:
+    - vulnerability
 header:
   teaser: /assets/images/pihole_temp_status.png 
 ---

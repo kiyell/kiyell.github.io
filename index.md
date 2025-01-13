@@ -6,6 +6,7 @@ layout: single
 author_profile: true
 title: Kiyell - Ethical Hacker & Software Developer
 toc: true
+related: true
 layouts_gallery:
   - url: /assets/images/reaction_vs_image.png
     image_path: /assets/images/reaction_vs_image.png
@@ -19,7 +20,7 @@ Hello and welcome!
 
 On the internet I go by the handle kiyell. I have a background in IT support and software development but I've been a full-time bug bounty hunter since 2018. I enjoy pentesting web applications, mobile apps, and creating tools that that test for security vulnerabilities at scale. 
 
-Some of my latest endeavors have involved reviewing open source projects for [security vulnerabilties](/The-Harmless-Pihole-Bug/), creating [bash scripts](https://github.com/kiyell/h1scripts) that detect bug bounty scope changes, managing my [Linux config files](https://github.com/kiyell/dotfiles) with Git, and using [Jekyll & Github Pages](https://github.com/kiyell/kiyell.github.io) to create the website you are viewing now.
+Some of my latest endeavors have involved reviewing open source projects for [security vulnerabilties](/tags/#cve), creating [bash scripts](https://github.com/kiyell/h1scripts) that detect bug bounty scope changes, managing my [Linux config files](https://github.com/kiyell/dotfiles) with Git, and using [Jekyll & Github Pages](https://github.com/kiyell/kiyell.github.io) to create the website you are viewing now.
 
 I invite you to [browse through my articles](/posts/) where I write about software security, programming, and other topics I am passionate about.
 
