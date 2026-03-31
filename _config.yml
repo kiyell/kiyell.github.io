@@ -16,7 +16,7 @@
 title: kiyell.com
 email:
 description: >- # this means to ignore newlines until "baseurl:"
- Kiyell is an Ethical Hacker that enjoys creating tools that that test for security vulnerabilities at scale. When not busy hacking or programming, also enjoys writing educational content and astronomy.  
+ Kiyell is a cybersecurity professional that enjoys researching threats and creating tools that that test for vulnerabilities and help secure infrastructure. When not busy hacking or programming, he also enjoys writing educational content.  
 twitter_username: KiyellSec
 github_username: kiyell
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Kiyell"
   avatar : "/assets/images/profile_image_2024_nocolor.jpg"
-  bio    : "A hands-on hacker focused on cybersecurity, microcontrollers, astronomy, and more."
+  bio    : "A hands-on hacker focused on securing cyberinfrastructure through vulnerability research and systemic ISMS transformation."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
