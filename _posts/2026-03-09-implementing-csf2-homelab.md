@@ -12,8 +12,6 @@ header:
   teaser: /assets/images/CSF_Six_Functions.jpg 
 ---
 
-# Implementing NIST CSF 2.0 in a homelab environment
-
 In the over 6 years I've worked in the field of cybersecurity, I am still surprised by the many threats and vulnerabilities that are out there. As a bug bounty hunter working from the offensive side, I've found insecure APIs in banks that leaked account details and social security numbers, exposed cloud storage buckets leaking source code, and many other high impact vulnerabilities in web applications. But now, in my new role as an analyst and threat hunter in a SOC, I've come to appreciate another battleground that hits closer to home than my targets of the past: end user devices.
 
 On one day I may be alerting a client about a user that fell for a fake captcha and installed an infostealer. The next day it may be a device that is suddenly connecting to a threat actor's command & control domain or is abusing a LOLbin (Living Off the Land Binary) like wscript.exe to download and execute malicious code. The worst of the incidents I handle involve ransomware attacks that sometimes leave companies paralyzed, especially if their security policies were weak or non-existent.
